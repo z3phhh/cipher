@@ -1,0 +1,5 @@
+rootProject.name = 'crypto'
+include 'server1'
+include 'server2'
+include 'server3'
+
